@@ -14,7 +14,7 @@ El modelo utilizará embeddings para la detección y agrupación de tópicos, y 
 
 El objetivo de los cuatro códigos fue desarrollar y mejorar un sistema automatizado para la detección y clasificación de tópicos en documentos de texto, utilizando técnicas avanzadas de procesamiento de lenguaje natural (NLP) y almacenamiento vectorial.
 
-1) **TP_NLP_1_Topicos_1dia.ipynb:** realiza un análisis detallado de la detección y agrupación de tópicos en noticias de un solo día, utilizando técnicas avanzadas de NLP como embeddings y clustering. Almacena los tópicos en una base de datos vectorial para facilitar la clasificación futura y realiza un análisis exhaustivo de entidades, palabras clave y sentimiento en ese contexto diario.
+1) **TP_NLP_1_Topicos_1dia:** realiza un análisis detallado de la detección y agrupación de tópicos en noticias de un solo día, utilizando técnicas avanzadas de NLP como embeddings y clustering. Almacena los tópicos en una base de datos vectorial para facilitar la clasificación futura y realiza un análisis exhaustivo de entidades, palabras clave y sentimiento en ese contexto diario.
 
 2) **TP_NLP_2_ProcesamientoDiario:** Amplio el sistema inicial al implementar un procesamiento diario de tópicos, almacenando y comparando tópicos entre diferentes días. Se buscó asegurar la continuidad y actualización del análisis a lo largo del tiempo.
 
