@@ -7,11 +7,11 @@ El proyecto busca desarrollar un sistema para identificar y agrupar tópicos en 
 1) Detectar y agrupar tópicos diarios, considerando su evolución día a día.
 2) Clasificar nuevos textos durante el día dentro de los tópicos ya existentes.
 3) Extraer entidades y palabras clave y realizar análisis de sentimiento en los textos.
-4) 
+
 El modelo utilizará embeddings para la detección y agrupación de tópicos, y almacenará los resultados en una base de datos compatible con vectores.
 
-# Instalación
 
+Instalación
 ``` bash
 conda create -n topics python=3.11
 conda activate topics
