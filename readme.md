@@ -16,7 +16,7 @@ El objetivo de los cuatro códigos fue desarrollar y mejorar un sistema automati
 
 1) **TP_NLP_1_Topicos_1dia:** realiza un análisis detallado de la detección y agrupación de tópicos en noticias de un solo día, utilizando técnicas avanzadas de NLP como embeddings y clustering. Almacena los tópicos en una base de datos vectorial para facilitar la clasificación futura y realiza una extracción de entidades, palabras clave y sentimiento en ese contexto diario.
 
-2) **TP_NLP_2_ProcesamientoDiario:** Amplio el sistema inicial al implementar un procesamiento diario de tópicos, almacenando y comparando tópicos entre diferentes días. Se buscó asegurar la continuidad y actualización del análisis a lo largo del tiempo.
+2) **TP_NLP_2_ProcesamientoDiario:** Amplió el sistema inicial al implementar un procesamiento diario de tópicos, almacenando y comparando tópicos entre diferentes días. Se buscó asegurar la continuidad y actualización del análisis a lo largo del tiempo.
 
 3) **TP_NLP_3_MergeModels:** Se abordo el problema de una manera alternativa. Aquí se entrena modelos de detección de tópicos diariamente, se fusionan esos modelos para identificar y agrupar tópicos similares a lo largo de múltiples días, y se almacenan los embeddings de los tópicos en OpenSearch para realizar búsquedas eficientes.
 
